@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "scripts": {
-      "install": "cd ./react && npm run install",
+      "install": "cd ./react && npm install",
       "start": "cd ./react && npm run start",
       "build": "cd ./react && npm run build"
     },
